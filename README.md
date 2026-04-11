@@ -7,7 +7,7 @@
 
 This project designs and implements a **full relational database** to power an online marketplace connecting rural artisans with global buyers. The database supports end-to-end business operations including user management, product listings, order processing, payments, shipments, and business analytics.
 
-Built for **BUAN 6320 — Database Foundations for Business Analytics** at the University of Texas at Dallas.
+
 
 ---
 
